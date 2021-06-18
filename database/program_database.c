@@ -13,6 +13,11 @@
 #include <netinet/in.h>
 #include <pthread.h>
 
+#define MAX_ROW 1024
+#define MAX_COL 1024
+
+// int create_database
+
 int main(){
     return 0;
 }
